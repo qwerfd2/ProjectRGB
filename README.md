@@ -30,6 +30,6 @@ If a game is scheduled to go (or is) offline permenantly, please let me know by 
 请告诉我你想备份的音游 - 该游戏（1）必须有服务器下载内容（2）（原则上）不能为中国服务器（国服）游戏*。  
 如果一款游戏即将（或者已经）停服，开个Issue告诉我。
   
-*因为我不想破费，所以要自己做破解，国内游戏破解你懂得
+*因为我不想破费，所以要自己做破解，国内游戏破解后果你懂得
   
 ## Links  链接
