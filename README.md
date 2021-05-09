@@ -17,7 +17,7 @@ Format: Game, Percentage, Version
 Arcaea         100%                 3.5.5  
 Cytus2        97%                  3.8.5  
 Dynamix        100%                 3.15 - 5/2021  
-Musync(CN)         105%             2.4.02 
+Musync(CN)         105%             2.4.02  
 OverRapid      70%                  1467v31MK26  
 Lanota         100%                 2.5.1  
 
