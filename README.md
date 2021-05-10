@@ -15,10 +15,10 @@ Format: Game, Percentage, Version
 格式：游戏，完成百分比，版本
   
 Arcaea         100%                 3.5.5  
-Cytus2        97%                  3.8.5  
+Cytus2        100%                  3.8.5  
 Dynamix        100%                 3.15 - 5/2021  
-Musync(CN)         105%             2.4.02  
-OverRapid      70%                  1467v31MK26  
+Musync(CN)     105%             2.4.02  
+OverRapid      100%                  1467v31MK26  
 Lanota         100%                 2.5.1  
 
 
@@ -30,6 +30,6 @@ If a game is scheduled to go (or is) offline permenantly, please let me know by 
 请告诉我你想备份的音游 - 该游戏（1）必须有服务器下载内容（2）（原则上）不能为中国服务器（国服）游戏*。  
 如果一款游戏即将（或者已经）停服，开个Issue告诉我。
   
-*因为我不想破费，所以要自己做破解，国内游戏破解后果你懂得
+*因为我不想破费，所以要自己做破解（或者和购买的人交换），国内游戏破解后果你懂得
   
 ## Links  链接
