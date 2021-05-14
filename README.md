@@ -14,7 +14,7 @@ To prevent piracy, Links to the files will be made available if the game went pe
 Format: Game, Percentage, Version  
 格式：游戏，完成百分比，版本
   
-Arcaea         100%                 3.5.5  
+Arcaea         99%                 3.6.0  
 Cytus2        100%                  3.8.5  
 Dynamix        100%                 3.15 - 5/2021  
 Musync(CN)     105%             2.4.02  
