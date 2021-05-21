@@ -6,7 +6,7 @@ Currently, 6 games are covered: Arcaea, Cytus 2, Dynamix, Musync, OverRapid, and
 To prevent piracy, Links to the files will be made available if the game went permanently offline.  
   
 强联网和服务器依赖可以随时让一款游戏“过期”。音游行业不好混，入不敷出的开发者比比皆是。  
-我会维护一些音游的完整服务器文件备份，包括BGA，音乐，和谱面文件。  
+我会维护一些音游的服务器文件备份，包括BGA，音乐，和谱面文件。  
 目前，我的备份包括6款游戏：Arcaea, Cytus 2（谷歌服）, Dynamix, 同步音律喵赛克, OverRapid, Lanota.  
 为防止盗版，文件链接将在游戏确认停服后发布。  
 
@@ -14,8 +14,8 @@ To prevent piracy, Links to the files will be made available if the game went pe
 Format: Game, Percentage, Version  
 格式：游戏，完成百分比，版本
   
-Arcaea         99%                 3.6.0  
-Cytus2        100%                  3.8.5  
+Arcaea         104% (incl. NS pack)                 3.6.1  
+Cytus2        100%                  3.9  
 Dynamix        100%                 3.15 - 5/2021  
 Musync(CN)     105%             2.4.02  
 OverRapid      100%                  1467v31MK26  
