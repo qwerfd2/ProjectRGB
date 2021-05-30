@@ -20,6 +20,9 @@ Dynamix        100%                 3.15 - 5/2021
 Musync(CN)     105%             2.4.02  
 OverRapid      100%                  1467v31MK26  
 Lanota         100%                 2.5.1  
+  
+100%+ = More content than official version (e.g. removed tracks, platform exclusive contents)  
+100%+ = 移除曲目收录，独占曲目  
 
 
 
