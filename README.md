@@ -14,12 +14,12 @@ To prevent piracy, Links to the files will be made available if the game went pe
 Format: Game, Percentage, Version  
 格式：游戏，完成百分比，版本
   
-Arcaea         104% (incl. NS pack)                 3.6.1  
+Arcaea         104% (incl. NS pack)                 3.6.2  
 Cytus2        100%                  3.9  
-Dynamix        100%                 3.15 - 5/2021  
-Musync(CN)     105%             2.4.02  
-OverRapid      100%                  1467v31MK26  
-Lanota         100%                 2.5.1  
+Dynamix        100%                 3.15 - 6/2021  
+Musync(CN)     105%             2.4.03  
+OverRapid      103%                  version105 (1500v32MK20)  
+Lanota         100%                 2.5.1 - 6/2021 
   
 100%+ = More content than official version (e.g. removed tracks, platform exclusive contents)  
 100%+ = 移除曲目收录，独占曲目  
